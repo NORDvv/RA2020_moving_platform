@@ -1,0 +1,10 @@
+D:\STUDY\USRA 2020\Arduino_WIndows_control\Arduino_WIndows_control\bin\Debug\Arduino_WIndows_control.exe.config
+D:\STUDY\USRA 2020\Arduino_WIndows_control\Arduino_WIndows_control\bin\Debug\Arduino_WIndows_control.exe
+D:\STUDY\USRA 2020\Arduino_WIndows_control\Arduino_WIndows_control\bin\Debug\Arduino_WIndows_control.pdb
+D:\STUDY\USRA 2020\Arduino_WIndows_control\Arduino_WIndows_control\obj\Debug\Arduino_WIndows_control.Form1.resources
+D:\STUDY\USRA 2020\Arduino_WIndows_control\Arduino_WIndows_control\obj\Debug\Arduino_WIndows_control.Properties.Resources.resources
+D:\STUDY\USRA 2020\Arduino_WIndows_control\Arduino_WIndows_control\obj\Debug\Arduino_WIndows_control.csproj.GenerateResource.cache
+D:\STUDY\USRA 2020\Arduino_WIndows_control\Arduino_WIndows_control\obj\Debug\Arduino_WIndows_control.csproj.CoreCompileInputs.cache
+D:\STUDY\USRA 2020\Arduino_WIndows_control\Arduino_WIndows_control\obj\Debug\Arduino_WIndows_control.exe
+D:\STUDY\USRA 2020\Arduino_WIndows_control\Arduino_WIndows_control\obj\Debug\Arduino_WIndows_control.pdb
+D:\STUDY\USRA 2020\Arduino_WIndows_control\Arduino_WIndows_control\obj\Debug\Arduino_WIndows_control.csprojAssemblyReference.cache
